@@ -2,8 +2,21 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .title{
     background: cornflowerblue;
     text-align: center;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+span{
+    background: blue;
+    font-style: italic;
+}
+
+.column{
+    float: left;
+    width: 500px;
 }
